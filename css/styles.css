@@ -8,15 +8,8 @@ html, body {
 }
 
 .centered-text {
-    text-align: center;
-    color: black;
+    color: black;    
     font-family: 'Architects Daughter', cursive;
-    
-}
-
-#centered-text {
+    padding-top: 20em;
     text-align: center;
-    color: blue;
-    font-family: 'Architects Daughter', cursive;
-    
 }
