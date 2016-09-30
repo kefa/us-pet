@@ -1,0 +1,22 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/us-pet.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.centered-text {
+    text-align: center;
+    color: black;
+    font-family: 'Architects Daughter', cursive;
+    
+}
+
+#centered-text {
+    text-align: center;
+    color: blue;
+    font-family: 'Architects Daughter', cursive;
+    
+}
